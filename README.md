@@ -30,4 +30,4 @@
 
 📫 **Let’s connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ikechukwu-ogbonna-dev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ikechukwu-ogbonna-Webdev)
