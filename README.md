@@ -3,8 +3,8 @@
 💻 **Full-Stack Web Developer** | Passionate about clean code, UI/UX, and scalable solutions  
 🌍 **Location:** Nigeria  
 🔭 **Currently working on:** A personal portfolio site + open source contributions  
-🌱 **Learning:** React, Next.js, TypeScript  
-🤝 **Looking to collaborate on:** Frontend & API projects  
+🌱 **Learning:** Next.js, TypeScript  
+🤝 **Looking to collaborate on:** Frontend, Backend & API projects  
 
 ---
 
